@@ -1,0 +1,46 @@
+/* styles.css */
+.user-list {
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #4caf50;
+}
+
+.search-bar {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.search-bar .add-button {
+  padding: 8px 12px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table th,
+.user-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.user-table th {
+  color: #aaa;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 0.8rem;
+}
