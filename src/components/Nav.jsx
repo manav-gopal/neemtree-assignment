@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import "./style/Nav.scss";
 
-export default Nav = () => {
+const Nav = () => {
   return (
     <nav className="navbar">
       <div className="navbar_logo">Forms</div>
@@ -22,3 +22,5 @@ export default Nav = () => {
     </nav>
   );
 };
+
+export default Nav;

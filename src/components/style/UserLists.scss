@@ -1,4 +1,3 @@
-/* styles.css */
 .user-list {
   padding: 20px;
 }
@@ -43,4 +42,26 @@ h2 {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 0.8rem;
+}
+
+.suggestions-list {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  max-height: 150px;
+  overflow-y: auto;
+  position: absolute;
+  background: white;
+  list-style-type: none;
+  transform: translatey(100%);
+  margin: 0;
+  z-index: 1000;
+}
+
+.suggestions-list li {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.suggestions-list li:hover {
+  background-color: #f0f0f0;
 }
