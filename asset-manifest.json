@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manav-gopal/neemtree-assignment/static/css/main.ba0aff94.css",
+    "main.js": "/manav-gopal/neemtree-assignment/static/js/main.6fb321d7.js",
+    "index.html": "/manav-gopal/neemtree-assignment/index.html",
+    "main.ba0aff94.css.map": "/manav-gopal/neemtree-assignment/static/css/main.ba0aff94.css.map",
+    "main.6fb321d7.js.map": "/manav-gopal/neemtree-assignment/static/js/main.6fb321d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba0aff94.css",
+    "static/js/main.6fb321d7.js"
+  ]
+}
